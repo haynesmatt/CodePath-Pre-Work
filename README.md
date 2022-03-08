@@ -2,7 +2,7 @@
 
 **Tipped** is a tip calculator application for iOS.
 
-Submitted by: **Matthew Haynes**
+Created by: **Matthew Haynes**
 
 Time spent: **2** hours spent in total
 
